@@ -89,6 +89,10 @@ Na tela catálogo, o usuário ira encontrar os produtos oferecidos e o botão pa
 
 <img src="https://github.com/user-attachments/assets/61f91ed5-ee9e-4789-a33b-a0c3610fa46e" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppBurguerATAT/blob/main/AppBuguerATAT.zip"> Download APK </a>
+
 # 📄 Licença
 
 [![NPM](https://github.com/ZiroGl/AppBurguerATAT/blob/main/LICENSE)  
